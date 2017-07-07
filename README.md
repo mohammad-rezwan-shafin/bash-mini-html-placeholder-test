@@ -27,12 +27,14 @@ chmod -x *.sh
 ---------------
 Required Lib
 ---------------
-Linux default sed has been used and assume sed is the path
+Linux default sed has been used and assume sed is in the path
 
 
 ------------------------------------
 Testing and Development Environments
 ------------------------------------
 OS Version: OpenSUSE Leap 42.2  (Linux Kernel 4.4.62-18.6-default)
+
 BASH Version: GNU bash, version 4.3.42(1)-release (x86_64-suse-linux-gnu)
+
 SED Version: sed (GNU sed) 4.2.2
