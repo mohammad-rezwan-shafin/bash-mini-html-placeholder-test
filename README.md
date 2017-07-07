@@ -8,6 +8,10 @@ run use following command in linux shell
 
 ​./replaceTokens.sh input/index.html conf/prod.properties output/index.html​
 
+** Please make sure the input and conf(properties) directory and file exists. And for output directory exists.
+
+Output file will be automatically created or overwritten if exists. 
+
 --------------
 Special Note
 --------------
