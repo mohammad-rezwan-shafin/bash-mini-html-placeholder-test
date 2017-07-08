@@ -28,7 +28,7 @@ It was assume that bash is using default local /bin/bash
 
 Following command might be helpful if execute permissions are missing
 
-chmod -x *.sh
+chmod +x *.sh
     
 
 ---------------
